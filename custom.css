@@ -1,0 +1,12 @@
+header.dashboard-header {
+  background-color: #fdfdfd !important;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+  color: #000 !important;
+}
+
+header.dashboard-header nav #header {
+  background-size: 50px 40px !important;
+  background-image: url("hhttps://i.ibb.co/C8Jf16w/Navidium-logo-ONLY-15609c.png") !important;
+}
